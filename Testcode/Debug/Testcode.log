@@ -1,0 +1,17 @@
+﻿生成启动时间为 2015/12/12 9:51:48。
+     1>项目“C:\Users\Atozzio\Desktop\softproject\Testcode\Testcode.vcxproj”在节点 3 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt neko.cpp
+         neko.cpp
+     1>c:\users\atozzio\desktop\softproject\testcode\neko.cpp(50): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>c:\users\atozzio\desktop\softproject\testcode\neko.cpp(116): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>c:\users\atozzio\desktop\softproject\testcode\neko.cpp(142): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>c:\users\atozzio\desktop\softproject\testcode\neko.cpp(243): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Atozzio\Desktop\softproject\Debug\Testcode.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Atozzio\Desktop\softproject\Debug\Testcode.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Atozzio\Desktop\softproject\Debug\Testcode.lib" /MACHINE:X86 Debug\neko.obj
+         Testcode.vcxproj -> C:\Users\Atozzio\Desktop\softproject\Debug\Testcode.exe
+     1>已完成生成项目“C:\Users\Atozzio\Desktop\softproject\Testcode\Testcode.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.11
